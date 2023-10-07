@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![@rphi's Holopin board](https://holopin.io/api/user/board?user=rahul1995)](https://holopin.io/@rahul1995)
+[![@rahul1995's Holopin board](https://holopin.io/api/user/board?user=rahul1995)](https://holopin.io/@rahul1995)
 
 <!--
 **rahul1995/rahul1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
