@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Contact me on Codementor](https://www.codementor.io/m-badges/jainrahul6620/im-a-cm-b.svg)](https://www.codementor.io/@jainrahul6620?refer=badge)
 
 [![@rahul1995's Holopin board](https://holopin.io/api/user/board?user=rahul1995)](https://holopin.io/@rahul1995)
 
